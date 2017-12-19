@@ -1,0 +1,57 @@
+@media screen and (max-width: 767px) {
+  #header .header-extent{display: none;}
+  #banners,#banners2{height:200px; width:100%;}
+  .page-width{width:90%; margin:0 auto;}
+  #mo_top_menu{position: absolute; top: 30px; left: 0; width: 100%;}
+  #top_menu{position: absolute; top: 120px; left: 2.5%; margin-left: 0; height: auto; width: 95%; opacity: 0.9; z-index: 100;}
+  #top_header{display: block;}
+  #top_header_1{display: none;}
+  .navbar-nav{margin-top: 10px;}
+  .navbar-nav li{border-bottom: 1px #f6f6f6 solid;}
+  .navbar-nav li:last-child{border: 0;}
+  #page-content p.big-title{font-size: 2.8vw;}
+  .navbar-default{background-color:transparent; border-color:transparent;}
+
+  #page-content .content .list-box .box .img{float: none;  border-top: 1px #ccc solid; padding-top: 20px;}
+  #page-content .content .list-box .box .img a{margin: 0 auto;}
+  #page-content .content .list-box .box .small-prev{border: 0;}
+
+  #page-content .big-title{display: block; border: 0; margin: 0 auto; font-size: 1.3rem;}
+
+  #footer .nav ul li{padding: 0 15px;}
+
+  #page-content .home-activity-content{width: 90%;}
+  #page-content .home-activity-content .box{margin-bottom: 50px;}
+  #page-content .home-activity-content .img{float: none;text-align: center; width: 100%;}
+  #page-content .home-activity-content .small-prev{float: none; width: 100%; margin-bottom: 20px; text-align: center;}
+  #page-content .home-activity-content .small-prev .big-title-2{margin: 0 auto;}
+  #page-content .home-activity-content .box{height: 160px;}
+
+  #page-content .about-left{float: none; width: 100%; max-width: none; text-align: center;}
+  #page-content .about-right{float: none; width: 100%;}
+  #page-content .about-right .content{padding: 0 10px;}
+
+  .product-content .box .img{width: 100%; float: none; text-align: center; max-width: none;}
+  .product-content .box .small-prev{width: 100%; float: none;}
+
+  .contact-content{padding: 0;}
+  .contact-banner img{width: 100%;}
+
+  #footer .left{float: none; width: 100%; border: 0; text-align: center; padding: 0;}
+  #footer .right{float: none; width: 100%; }
+
+}
+
+@media screen and (max-width: 462px) {
+
+}
+
+
+@media print{
+}
+
+
+
+
+
+
